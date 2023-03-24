@@ -1,0 +1,5 @@
+1) write script to take backup and add it in scheduler
+2) Write a script to Check disk space and intimate about any directory nearing full
+3) send email communication,combine with disk space intimation
+4) Display no divisible by 3 or divisible by 5 but not divisible by 15, from no 1 to 100
+5) Print no of occurence of character,i.e. no of S in Mississipe
